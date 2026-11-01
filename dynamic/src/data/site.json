@@ -1,0 +1,1191 @@
+{
+  "name": {
+    "zh": "林芳義",
+    "en": "Fang-Yi Lin"
+  },
+  "initials": "FY",
+  "email": "az045317@gmail.com",
+  "github": "github.com/yiyiscode",
+  "titles": {
+    "zh": "林芳義｜資料／AI 工程師",
+    "en": "Fang-Yi Lin | Data & AI Engineer"
+  },
+  "ui": {
+    "nav": {
+      "zh": [
+        [
+          "#top",
+          "首頁"
+        ],
+        [
+          "#experience",
+          "經歷"
+        ],
+        [
+          "#projects",
+          "作品"
+        ],
+        [
+          "#skills",
+          "技能"
+        ],
+        [
+          "#contact",
+          "聯絡"
+        ]
+      ],
+      "en": [
+        [
+          "#top",
+          "Home"
+        ],
+        [
+          "#experience",
+          "Experience"
+        ],
+        [
+          "#projects",
+          "Projects"
+        ],
+        [
+          "#skills",
+          "Skills"
+        ],
+        [
+          "#contact",
+          "Contact"
+        ]
+      ]
+    },
+    "badge": {
+      "zh": "資料／AI 工程師作品集",
+      "en": "Data & AI Engineering Portfolio"
+    },
+    "tag": {
+      "zh": "把資料與 LLM 串成每天自動執行的系統。",
+      "en": "Turning data and LLMs into systems that run on their own, every day."
+    },
+    "cta1": {
+      "zh": "瀏覽作品",
+      "en": "Explore Projects"
+    },
+    "cta2": {
+      "zh": "寄信給我",
+      "en": "Email Me"
+    },
+    "stack": {
+      "zh": "技術堆疊",
+      "en": "Tech Stack"
+    },
+    "tlBadge": {
+      "zh": "經歷軌跡",
+      "en": "Career Trajectory"
+    },
+    "tlTitle": {
+      "zh": "經歷與成果時間軸",
+      "en": "Experience & Impact Timeline"
+    },
+    "tlSub": {
+      "zh": "資料工程、機器學習與商業分析的實習、專案與競賽。",
+      "en": "Internships, projects and competitions across data engineering, machine learning and business analytics."
+    },
+    "filters": {
+      "zh": [
+        [
+          "all",
+          "全部"
+        ],
+        [
+          "work",
+          "工作"
+        ],
+        [
+          "proj",
+          "專案"
+        ],
+        [
+          "award",
+          "競賽"
+        ],
+        [
+          "edu",
+          "學歷"
+        ]
+      ],
+      "en": [
+        [
+          "all",
+          "All Milestones"
+        ],
+        [
+          "work",
+          "Work"
+        ],
+        [
+          "proj",
+          "Projects"
+        ],
+        [
+          "award",
+          "Competitions"
+        ],
+        [
+          "edu",
+          "Education"
+        ]
+      ]
+    },
+    "projBadge": {
+      "zh": "精選作品",
+      "en": "Featured Work"
+    },
+    "projTitle": {
+      "zh": "AI 系統與資料專案",
+      "en": "AI Systems & Data Projects"
+    },
+    "projSub": {
+      "zh": "每個專案都標明範圍與數字出處；資料型數字會註明統計截止日。",
+      "en": "Each project states its scope; time-sensitive figures carry an as-of date."
+    },
+    "highlights": {
+      "zh": "技術重點",
+      "en": "Technical Highlights"
+    },
+    "flow": {
+      "zh": "處理流程",
+      "en": "Pipeline"
+    },
+    "moreTitle": {
+      "zh": "更多專案",
+      "en": "More Projects"
+    },
+    "showMore": {
+      "zh": "展開更多專案",
+      "en": "Show more projects"
+    },
+    "hideMore": {
+      "zh": "收合",
+      "en": "Show less"
+    },
+    "skillsTitle": {
+      "zh": "技能",
+      "en": "Skills"
+    },
+    "certTitle": {
+      "zh": "證照與語言",
+      "en": "Certifications & Language"
+    },
+    "contactTitle": {
+      "zh": "聯絡我",
+      "en": "Get in touch"
+    },
+    "contactSub": {
+      "zh": "歡迎來信討論資料／AI 相關的職缺。",
+      "en": "Open to data and AI engineering opportunities."
+    },
+    "present": {
+      "zh": "至今",
+      "en": "Present"
+    },
+    "asof": {
+      "zh": "截至 2026-10-15",
+      "en": "as of 2026-10-15"
+    },
+    "github": {
+      "zh": "GitHub 原始碼",
+      "en": "Source on GitHub"
+    },
+    "theme": {
+      "zh": "切換深淺色",
+      "en": "Toggle theme"
+    },
+    "aiNote": {
+      "zh": "AI 協作開發：以 Claude Code、Codex 協作開發部分專案。",
+      "en": "AI-assisted development: some projects built with Claude Code and Codex."
+    },
+    "footer": {
+      "zh": "以純 HTML／CSS／JS 手寫，部署於 GitHub Pages。",
+      "en": "Hand-written HTML/CSS/JS, hosted on GitHub Pages."
+    }
+  },
+  "metrics": [
+    {
+      "v": "2,433",
+      "asof": true,
+      "zh": "不重複職缺已處理（104 職缺日報）",
+      "en": "unique postings processed (104 Job Finder)"
+    },
+    {
+      "v": "6x",
+      "zh": "國泰人壽實習：訓練效率提升",
+      "en": "training efficiency gain, Cathay Life internship"
+    },
+    {
+      "v": "99.84%",
+      "zh": "惡意網址分類模型準確率",
+      "en": "accuracy of the malicious-URL classifier"
+    },
+    {
+      "v": "Top 15",
+      "zh": "2024 郵政大數據競賽（100+ 隊）",
+      "en": "2024 Postal Big Data Competition (100+ teams)"
+    }
+  ],
+  "stack": [
+    {
+      "l": {
+        "zh": "程式語言",
+        "en": "Languages"
+      },
+      "i": [
+        "Python",
+        "SQL",
+        "R",
+        "SAS",
+        "JavaScript"
+      ]
+    },
+    {
+      "l": {
+        "zh": "統計／機器學習",
+        "en": "Statistics & ML"
+      },
+      "i": [
+        "Scikit-learn",
+        "XGBoost",
+        "PyCaret",
+        "SHAP",
+        "LIME"
+      ]
+    },
+    {
+      "l": {
+        "zh": "深度學習／LLM",
+        "en": "Deep Learning & LLM"
+      },
+      "i": [
+        "PyTorch",
+        "LangChain",
+        "RAG",
+        "Ollama",
+        "Claude",
+        "ChromaDB"
+      ]
+    },
+    {
+      "l": {
+        "zh": "資料工程／自動化",
+        "en": "Data Engineering & Automation"
+      },
+      "i": [
+        "Pandas",
+        "SQLite",
+        "MySQL",
+        "PySpark",
+        "Telegram Bot",
+        "pytest"
+      ]
+    },
+    {
+      "l": {
+        "zh": "後端／雲端",
+        "en": "Backend & Cloud"
+      },
+      "i": [
+        "FastAPI",
+        "Pydantic",
+        "AWS",
+        "Git"
+      ]
+    },
+    {
+      "l": {
+        "zh": "BI／視覺化",
+        "en": "BI & Visualization"
+      },
+      "i": [
+        "Power BI",
+        "Tableau",
+        "Streamlit",
+        "Plotly",
+        "Folium",
+        "R Shiny"
+      ]
+    },
+    {
+      "l": {
+        "zh": "電腦視覺",
+        "en": "Computer Vision"
+      },
+      "i": [
+        "OpenCV",
+        "YOLO",
+        "SIFT",
+        "AlphaPose",
+        "TrackNetV3"
+      ]
+    },
+    {
+      "l": {
+        "zh": "AI 協作開發",
+        "en": "AI-assisted Development"
+      },
+      "i": [
+        "Claude Code",
+        "Codex"
+      ]
+    }
+  ],
+  "certs": [
+    {
+      "zh": "TOEIC 745（2026/05）",
+      "en": "TOEIC 745 (May 2026)"
+    },
+    {
+      "zh": "Google Analytics 個人認證資格",
+      "en": "Google Analytics Individual Qualification"
+    }
+  ],
+  "timeline": [
+    {
+      "k": "proj",
+      "start": "2026-08",
+      "end": null,
+      "badge": {
+        "zh": "個人專案",
+        "en": "Personal project"
+      },
+      "org": {
+        "zh": "104 職缺日報",
+        "en": "104 Job Finder"
+      },
+      "role": {
+        "zh": "獨立開發",
+        "en": "Sole developer"
+      },
+      "bullets": [
+        {
+          "zh": "獨立開發每日 08:00 排程的職缺資料管線：擷取 → 正規化與去重 → 規則層過濾 → 兩階段 LLM 評分 → Telegram 推播。",
+          "en": "Built a daily 08:00 scheduled pipeline: fetch 104 job postings → normalize & dedupe → rule-based filtering → two-stage LLM scoring → Telegram push."
+        },
+        {
+          "zh": "將每日約 1 小時的人工搜尋與篩選，縮短為約 4 分鐘的全自動流程。",
+          "en": "Cut ~1 hour of daily manual searching and screening to a ~4-minute automated run."
+        }
+      ],
+      "tech": [
+        "Python",
+        "SQLite",
+        "LLM API",
+        "Claude",
+        "pytest"
+      ]
+    },
+    {
+      "k": "work",
+      "start": "2025-02",
+      "end": "2025-06",
+      "badge": {
+        "zh": "實習",
+        "en": "Internship"
+      },
+      "org": {
+        "zh": "國泰人壽",
+        "en": "Cathay Life Insurance"
+      },
+      "role": {
+        "zh": "資安大數據分析實習生（CAP 計畫）",
+        "en": "Big Data Analysis & Cybersecurity Intern (CAP Program)"
+      },
+      "bullets": [
+        {
+          "zh": "重構資料預處理 Pipeline 與訓練流程，導入 PyTorch 架構優化與並行運算，訓練效率提升 6 倍。",
+          "en": "Streamlined data processing and training pipelines with PyTorch optimization and parallelism, achieving a 6x increase in training efficiency."
+        },
+        {
+          "zh": "自建資料分析與視覺化 BI 工具，支援特徵探索與錯誤分析，加速模型迭代。",
+          "en": "Built custom data analysis and BI visualization tools to support feature exploration, error analysis and faster model iteration."
+        },
+        {
+          "zh": "建立惡意網址分類模型，設計 BERT Embedding + CNN 混合架構，準確率（Accuracy）達 99.84%。",
+          "en": "Architected a malicious URL classifier with a hybrid BERT Embedding + CNN framework, reaching 99.84% accuracy."
+        }
+      ],
+      "tech": [
+        "Python",
+        "PyTorch",
+        "BERT",
+        "CNN",
+        "Streamlit",
+        "Plotly",
+        "Pandas",
+        "NumPy"
+      ],
+      "img": [
+        {
+          "src": "assets/img/cathay-architecture.png",
+          "zh": "專案架構圖：資安大數據分析平台",
+          "en": "Project architecture: cybersecurity big-data analysis platform"
+        },
+        {
+          "src": "assets/img/cathay-model.png",
+          "zh": "CNN 模型架構（參考論文：Detection of Malicious URL Based on BERT-CNN）",
+          "en": "CNN model architecture (reference: Detection of Malicious URL Based on BERT-CNN)"
+        }
+      ]
+    },
+    {
+      "k": "work",
+      "start": "2024-02",
+      "end": "2024-07",
+      "badge": {
+        "zh": "產學合作案",
+        "en": "Industry-academia project"
+      },
+      "org": {
+        "zh": "Solerie",
+        "en": "Solerie Co., Ltd."
+      },
+      "role": {
+        "zh": "技術助理：AI 金幣瑕疵檢測",
+        "en": "Technical Assistant: AI Gold Coin Defect Detection"
+      },
+      "bullets": [
+        {
+          "zh": "以 Arduino 介接硬體建立端到端自動化檢測流程，整合 YOLO 完成金幣偵測、裁切與去背。",
+          "en": "Built an end-to-end automated inspection setup using Arduino to interface with hardware, integrating YOLO for gold coin detection, cropping and background removal."
+        },
+        {
+          "zh": "以 SIFT + FLANN 特徵匹配搭配 Otsu 閾值，計算瑕疵比例並量化缺陷。",
+          "en": "Quantified defects by combining SIFT + FLANN feature matching with Otsu's thresholding to calculate defect ratios."
+        }
+      ],
+      "tech": [
+        "Python",
+        "OpenCV",
+        "YOLO",
+        "Arduino",
+        "SIFT",
+        "FLANN"
+      ]
+    },
+    {
+      "k": "work",
+      "start": "2024-01",
+      "end": "2024-12",
+      "badge": {
+        "zh": "實習",
+        "en": "Internship"
+      },
+      "org": {
+        "zh": "臺北富邦銀行",
+        "en": "Taipei Fubon Bank"
+      },
+      "role": {
+        "zh": "技術助理（產學合作案）",
+        "en": "Technical Assistant (Industry-Academia Collaboration)"
+      },
+      "bullets": [
+        {
+          "zh": "協助將 AI 鷹眼識詐模型佈署至多家銀行，提供技術諮詢與教育訓練。",
+          "en": "Assisted in deploying the \"AI Eagle Eye\" anti-fraud model to multiple banks, providing technical consultation and training."
+        },
+        {
+          "zh": "以 LIME 開發模型解釋工具，強化模型可解釋性與決策透明度。",
+          "en": "Developed model explainability tools with LIME to improve interpretability and decision transparency."
+        },
+        {
+          "zh": "協助 Python 版本升級除錯，並將 PySpark 架構改寫為 pandas 架構。",
+          "en": "Debugged a Python version upgrade and migrated PySpark code to pandas."
+        }
+      ],
+      "tech": [
+        "Python",
+        "LIME",
+        "PySpark",
+        "Pandas"
+      ]
+    },
+    {
+      "k": "award",
+      "start": "2024-01",
+      "end": "2024-12",
+      "badge": {
+        "zh": "競賽・佳作",
+        "en": "Competition · Finalist"
+      },
+      "org": {
+        "zh": "AI郵局 智創新局：2024 郵政大數據競賽",
+        "en": "AI Postal Innovation: 2024 Big Data Competition"
+      },
+      "role": {
+        "zh": "技術領導｜100+ 參賽隊伍中榮獲前 15 名",
+        "en": "Technical Lead | Top 15 out of 100+ teams"
+      },
+      "bullets": [
+        {
+          "zh": "主導數據驅動 i郵箱選址系統，以機器學習挖掘關鍵特徵並預測最佳設點位置。",
+          "en": "Led a data-driven iBox site selection system, using machine learning to extract key features and predict optimal locations."
+        },
+        {
+          "zh": "使用 AWS 建立使用者行為模型（寄件／收件），優化服務配置策略。",
+          "en": "Built user behavior models (sending/receiving) on AWS to optimize service allocation."
+        },
+        {
+          "zh": "開發 Streamlit + Folium 視覺化平台，整合地理資訊與模型預測結果，提升決策效率。",
+          "en": "Developed a Streamlit + Folium visualization platform combining geospatial data and model predictions."
+        }
+      ],
+      "tech": [
+        "AWS",
+        "Streamlit",
+        "Folium",
+        "PyCaret"
+      ]
+    },
+    {
+      "k": "edu",
+      "start": "2023-09",
+      "end": "2025-06",
+      "badge": {
+        "zh": "學歷",
+        "en": "Education"
+      },
+      "org": {
+        "zh": "國立臺灣科技大學",
+        "en": "National Taiwan University of Science and Technology"
+      },
+      "role": {
+        "zh": "資訊管理系碩士",
+        "en": "M.S. in Management Information Systems"
+      },
+      "bullets": [
+        {
+          "zh": "GPA 4.12/4.3；榮獲碩班優秀獎學金（入學）。",
+          "en": "GPA 4.12/4.3; awarded Graduate Excellence Admission Scholarship."
+        },
+        {
+          "zh": "論文：基於深度學習架構的兩階段羽球擊球動作分類模型（電腦圖學與多媒體實驗室，楊傳凱教授指導）。",
+          "en": "Thesis: A Two-Stage Deep Learning Model for Badminton Stroke Classification (Computer Graphics & Multimedia Lab, advised by Prof. Chuan-Kai Yang)."
+        },
+        {
+          "zh": "機器學習與大數據分析技術 A+｜人工智慧與商業分析 A｜大型語言模型與資訊安全系統 A。",
+          "en": "Machine Learning & Big Data Analytics: A+; AI & Business Analytics: A; LLM & Information Security Systems: A."
+        }
+      ],
+      "tech": []
+    },
+    {
+      "k": "award",
+      "start": "2021-01",
+      "end": "2021-12",
+      "badge": {
+        "zh": "競賽・複賽入圍",
+        "en": "Competition · Semi-finalist"
+      },
+      "org": {
+        "zh": "2021 Data Station 企業數據競賽",
+        "en": "2021 Data Station Business Data Competition"
+      },
+      "role": {
+        "zh": "組長｜該題目前 5 名",
+        "en": "Team Lead | Top 5 in track"
+      },
+      "bullets": [
+        {
+          "zh": "利用文字探勘分析輿情資料，識別熱門食品口味趨勢。",
+          "en": "Applied text mining to social listening data to identify trending food flavors."
+        },
+        {
+          "zh": "以分群與關聯分析食品營養標示與原料，挖掘顧客偏好模式。",
+          "en": "Used clustering and association analysis on nutrition labels and ingredients to uncover customer preferences."
+        },
+        {
+          "zh": "使用 Power BI 建立 Dashboard，視覺化關鍵指標以支援企業決策。",
+          "en": "Built Power BI dashboards to visualize key metrics for decision-making."
+        }
+      ],
+      "tech": [
+        "Power BI",
+        "Text Mining"
+      ]
+    },
+    {
+      "k": "edu",
+      "start": "2019-09",
+      "end": "2022-06",
+      "badge": {
+        "zh": "學歷",
+        "en": "Education"
+      },
+      "org": {
+        "zh": "國立臺北大學",
+        "en": "National Taipei University"
+      },
+      "role": {
+        "zh": "統計學系學士",
+        "en": "B.S. in Statistics"
+      },
+      "bullets": [
+        {
+          "zh": "GPA 3.79/4；系排名 9/61（14.75%）。",
+          "en": "GPA 3.79/4; class rank 9/61 (top 14.75%)."
+        },
+        {
+          "zh": "專題：建立國道事故預測模型及因素分析。",
+          "en": "Capstone: Freeway accident prediction model and factor analysis."
+        },
+        {
+          "zh": "人工智慧導論 90｜Python程式設計 91｜資料探勘 92。",
+          "en": "Intro to AI: 90; Python Programming: 91; Data Mining: 92."
+        }
+      ],
+      "tech": []
+    }
+  ],
+  "projects": [
+    {
+      "cat": "AUTOMATION · LLM",
+      "title": {
+        "zh": "104 職缺日報",
+        "en": "104 Job Finder"
+      },
+      "sub": {
+        "zh": "個人專案・獨立開發・2026/08 起",
+        "en": "Personal project · sole developer · since Aug 2026"
+      },
+      "link": "https://github.com/yiyiscode/104-job-finder",
+      "img": [
+        {
+          "src": "assets/img/jobfinder-arch.png",
+          "zh": "104 職缺日報每日資料管線架構圖",
+          "en": "104 Job Finder daily pipeline architecture"
+        },
+        {
+          "src": "assets/img/jobfinder-webui.png",
+          "zh": "Web UI 候選清單：三道閘門篩選與深評結果（公司與職缺名稱已隱藏）",
+          "en": "Web UI candidate list: three gates and deep scores (company and job titles hidden)"
+        },
+        {
+          "src": "assets/img/jobfinder-tailor.png",
+          "zh": "履歷修改建議：深評五維度雷達圖與依據（公司與職缺名稱已隱藏）",
+          "en": "Resume-tailoring view: five-dimension radar and evidence (company and job title hidden)"
+        },
+        {
+          "src": "assets/img/jobfinder-tailor-2.png",
+          "zh": "逐條判定必備條件，並列 104 原文對照",
+          "en": "Per-requirement verdicts next to the original 104 posting"
+        },
+        {
+          "src": "assets/img/jobfinder-trends.png",
+          "zh": "技能趨勢分析（標示樣本數與偏誤）",
+          "en": "Skill trend analysis (sample sizes and biases labelled)"
+        }
+      ],
+      "metrics": [
+        {
+          "v": "2,433",
+          "asof": true,
+          "zh": "不重複職缺（1,385 家公司）",
+          "en": "unique postings (1,385 companies)"
+        },
+        {
+          "v": "~1h → ~4m",
+          "zh": "每日人工篩選 → 全自動",
+          "en": "daily manual screening → automated"
+        },
+        {
+          "v": "668",
+          "asof": true,
+          "zh": "個離線自動化測試",
+          "en": "offline automated tests"
+        }
+      ],
+      "flow": {
+        "zh": [
+          "擷取 104 職缺",
+          "正規化與去重",
+          "規則層過濾",
+          "兩階段 LLM 評分",
+          "Telegram 推播"
+        ],
+        "en": [
+          "Fetch 104 postings",
+          "Normalize & dedupe",
+          "Rule-based filter",
+          "Two-stage LLM scoring",
+          "Telegram push"
+        ]
+      },
+      "bullets": [
+        {
+          "zh": "設計兩階段 LLM 評分（每批 15 筆粗篩 → 逐筆深評，structured outputs）；模型只做判斷，總分與取捨由程式計算與校正。",
+          "en": "Designed two-stage LLM scoring (batched screening of 15 → per-job deep scoring with structured outputs); the model only judges, totals and cut-offs are computed in code."
+        },
+        {
+          "zh": "先量測再定門檻：同資料重跑深評雜訊約 ±8 分，將絕對門檻改為當日排名前 N 名並保留低標。",
+          "en": "Measured before setting thresholds: re-scoring showed ±8 noise, so switched from an absolute cut-off to daily top-N with a floor."
+        },
+        {
+          "zh": "建立風險控管護欄：每次請求數硬上限 40、平均約 29 次；遇封鎖訊號即停止並熔斷，絕不登入帳號。",
+          "en": "Built guardrails: hard cap of 40 requests per run (avg ~29); stop and trip a circuit breaker on any block signal; never logs in."
+        },
+        {
+          "zh": "累計處理 2,433 筆不重複職缺（1,385 家公司、38 次執行）；新上架 2,452 筆，規則層濾除 67%，深評 699 筆，只推薦 196 筆（約 8%）。",
+          "en": "Processed 2,433 unique postings from 1,385 companies over 38 runs; of 2,452 new postings, the rule layer filtered out 67%, 699 were deep-scored and only 196 (~8%) recommended.",
+          "asof": true
+        },
+        {
+          "zh": "將評分模型由 Gemini 遷移至 Claude，失敗時自動退回原供應商，並重評 408 筆歷史職缺重新校準門檻。",
+          "en": "Migrated scoring from Gemini to Claude with automatic fallback, re-scoring 408 historical postings to recalibrate thresholds."
+        },
+        {
+          "zh": "建立 668 個離線自動化測試，以錄下的真實回應驗證抓取與解析；OpenRouter API 全期實付僅 US$1.28。",
+          "en": "Wrote 668 offline automated tests using recorded real responses; total OpenRouter API spend to date is only US$1.28.",
+          "asof": true
+        },
+        {
+          "zh": "以 Claude Code 協作開發：111 個 commit 中 104 個由 AI 共同撰寫。",
+          "en": "Built with Claude Code as an AI pair programmer: 104 of 111 commits co-authored with AI.",
+          "asof": true
+        }
+      ],
+      "tech": [
+        "Python",
+        "SQLite",
+        "httpx",
+        "Pydantic",
+        "LLM API",
+        "Claude",
+        "Claude Code",
+        "Streamlit",
+        "Telegram Bot",
+        "pytest"
+      ]
+    },
+    {
+      "cat": "MACHINE LEARNING",
+      "title": {
+        "zh": "半導體晶圓缺陷分類",
+        "en": "Semiconductor Wafer Defect Classification"
+      },
+      "sub": {
+        "zh": "自學專案・以 Codex 協作開發",
+        "en": "Self-directed project · built with Codex"
+      },
+      "link": null,
+      "img": [
+        {
+          "src": "assets/img/wafer-dashboard.png",
+          "zh": "BI Dashboard：預測表現、特徵重要性與異常排名",
+          "en": "BI dashboard: prediction quality, feature importance and anomaly ranking"
+        },
+        {
+          "src": "assets/img/wafer-dashboard-2.png",
+          "zh": "BI Dashboard：混淆矩陣、模型比較與異常晶圓表",
+          "en": "BI dashboard: confusion matrix, model comparison and anomaly wafer table"
+        },
+        {
+          "src": "assets/img/wafer-shap.png",
+          "zh": "SHAP 特徵重要性：pressure、temperature、etch rate",
+          "en": "SHAP feature importance: pressure, temperature, etch rate"
+        }
+      ],
+      "metrics": [
+        {
+          "v": "0.14%",
+          "zh": "缺陷樣本比例（5,000 筆製程資料）",
+          "en": "defect rate (5,000 process records)"
+        },
+        {
+          "v": "100% → 0%",
+          "zh": "Holdout Test 漏判率 FNR",
+          "en": "holdout-test FNR"
+        },
+        {
+          "v": "0.90",
+          "zh": "20 次重複切分平均 Recall",
+          "en": "mean Recall over 20 repeated splits"
+        }
+      ],
+      "flow": {
+        "zh": [
+          "5,000 筆製程資料",
+          "指標轉向 Recall／FNR",
+          "Threshold Tuning",
+          "SHAP 因子分析",
+          "BI Dashboard"
+        ],
+        "en": [
+          "5,000 process records",
+          "Recall / FNR metrics",
+          "Threshold tuning",
+          "SHAP factor analysis",
+          "BI dashboard"
+        ]
+      },
+      "bullets": [
+        {
+          "zh": "處理極度不平衡的缺陷樣本，以降低漏判為主要目標。",
+          "en": "Modeled extremely imbalanced defect labels, optimizing to minimize missed detections."
+        },
+        {
+          "zh": "將評估指標由 Accuracy 轉向 Recall、FNR、F4 與 Average Precision，對齊降低漏報的目標。",
+          "en": "Shifted evaluation from accuracy to Recall, FNR, F4 and Average Precision to align with the low-miss objective."
+        },
+        {
+          "zh": "20 次 Repeated Stratified Split Validation 平均 Recall 0.90、Average Precision 0.75。",
+          "en": "Achieved mean Recall 0.90 and Average Precision 0.75 across 20 repeated stratified splits."
+        },
+        {
+          "zh": "以 SHAP 辨識 pressure、temperature、etch rate 等關鍵製程因子，並建置 BI Dashboard 整合預測、特徵與風險監控。",
+          "en": "Identified key process factors (pressure, temperature, etch rate) with SHAP and built a BI dashboard for predictions, features and risk monitoring."
+        }
+      ],
+      "tech": [
+        "Gradient Boosting",
+        "AutoML",
+        "SHAP",
+        "Scikit-learn",
+        "BI Dashboard",
+        "Codex"
+      ]
+    },
+    {
+      "cat": "LLM · RAG",
+      "title": {
+        "zh": "RAG 資安文件問答系統",
+        "en": "RAG Cybersecurity Document Q&A System"
+      },
+      "sub": {
+        "zh": "FastAPI・地端部署",
+        "en": "FastAPI · on-premise"
+      },
+      "link": null,
+      "img": [
+        {
+          "src": "assets/img/rag-ui.png",
+          "zh": "SOC-style RAG 介面：回答附引用與檢索證據面板",
+          "en": "SOC-style RAG UI: answers with citations and a retrieved-evidence panel"
+        },
+        {
+          "src": "assets/img/rag-soc-console.png",
+          "zh": "SOC 資安 RAG 分析平台",
+          "en": "SOC cybersecurity RAG analysis console"
+        },
+        {
+          "src": "assets/img/rag-architecture.png",
+          "zh": "RAG 開發架構",
+          "en": "RAG development architecture"
+        }
+      ],
+      "metrics": [],
+      "flow": {
+        "zh": [
+          "文件上傳",
+          "Chunking",
+          "Retrieval",
+          "Grounded 回答＋引用"
+        ],
+        "en": [
+          "Document upload",
+          "Chunking",
+          "Retrieval",
+          "Grounded answer + citations"
+        ]
+      },
+      "bullets": [
+        {
+          "zh": "以 FastAPI 建置地端 RAG 資安文件問答系統，串接文件上傳、chunking、retrieval 與 grounded answer generation。",
+          "en": "Built an on-premise RAG Q&A system for security documents with FastAPI, covering upload, chunking, retrieval and grounded answer generation."
+        },
+        {
+          "zh": "設計防幻覺機制：僅依檢索片段回答，證據不足時回覆「根據目前文件無法判斷」，並附 file name、section、page、chunk id 引用。",
+          "en": "Designed an anti-hallucination mechanism: answers only from retrieved chunks, declines when evidence is insufficient, and cites file name, section, page and chunk id."
+        },
+        {
+          "zh": "實作來源資料 DB 管理流程（文件索引、indexed files 查詢、vector store 清除、chunk metadata 保存）。",
+          "en": "Implemented source-document management: indexing, indexed-file lookup, vector store reset and chunk metadata storage."
+        },
+        {
+          "zh": "實作 SOC-style Web UI，整合文件上傳、RAG Chat、retrieved evidence panel 與 citations 顯示。",
+          "en": "Built a SOC-style web UI with upload, RAG chat, a retrieved-evidence panel and citations."
+        }
+      ],
+      "tech": [
+        "FastAPI",
+        "LangChain",
+        "ChromaDB",
+        "PyMuPDF",
+        "Pydantic",
+        "JavaScript",
+        "TF-IDF",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "cat": "DEEP LEARNING",
+      "title": {
+        "zh": "兩階段羽球擊球動作分類（碩士論文）",
+        "en": "Two-Stage Badminton Stroke Classification (M.S. thesis)"
+      },
+      "sub": {
+        "zh": "臺灣科技大學・楊傳凱教授指導",
+        "en": "NTUST · advised by Prof. Chuan-Kai Yang"
+      },
+      "link": null,
+      "img": [
+        {
+          "src": "assets/img/thesis-demo.png",
+          "zh": "系統示意：骨架關鍵點與擊球軌跡",
+          "en": "System illustration: skeleton keypoints and shuttle trajectory"
+        },
+        {
+          "src": "assets/img/thesis-two-stage.png",
+          "zh": "兩階段模型架構",
+          "en": "Two-stage model architecture"
+        },
+        {
+          "src": "assets/img/thesis-model-result.png",
+          "zh": "模型準確率比較：單一模型與兩階段模型（10 組隨機種子）",
+          "en": "Accuracy comparison: single model vs. two-stage model (10 random seeds)"
+        }
+      ],
+      "metrics": [
+        {
+          "v": "89.70%",
+          "zh": "第一階段準確率",
+          "en": "stage-1 accuracy"
+        },
+        {
+          "v": "79.23%",
+          "zh": "整體準確率",
+          "en": "overall accuracy"
+        },
+        {
+          "v": "+12.05%",
+          "zh": "較基準方法提升（10 組隨機種子交叉驗證）",
+          "en": "over baseline (10 random seeds)"
+        }
+      ],
+      "flow": {
+        "zh": [
+          "骨架關鍵點＋擊球軌跡",
+          "階段一：正手／反手",
+          "階段二：細部擊球動作"
+        ],
+        "en": [
+          "Keypoints + shuttle trajectory",
+          "Stage 1: forehand / backhand",
+          "Stage 2: stroke type"
+        ]
+      },
+      "bullets": [
+        {
+          "zh": "設計兩階段分類架構：先辨識正手／反手，再辨識細部擊球動作。",
+          "en": "Designed a two-stage classifier: forehand/backhand first, then stroke type."
+        },
+        {
+          "zh": "以 AlphaPose 擷取骨架關鍵點並融合擊球軌跡。",
+          "en": "Used AlphaPose keypoints fused with shuttle trajectories."
+        }
+      ],
+      "tech": [
+        "PyTorch",
+        "LSTM",
+        "AlphaPose",
+        "TrackNetV3"
+      ]
+    }
+  ],
+  "more": [
+    {
+      "title": {
+        "zh": "股價趨勢預測模型",
+        "en": "Financial Trend Prediction & Text Mining"
+      },
+      "desc": {
+        "zh": "處理 GB 級金融文本，以 TF-IDF 文字探勘搭配 SMOTE、PCA，XGBoost 90 天移動回測準確率達 80%（楊立偉助理教授指導）。",
+        "en": "GB-scale financial text with TF-IDF, SMOTE and PCA; XGBoost 90-day rolling backtests reached 80% accuracy (advised by Asst. Prof. Li-Wei Yang)."
+      },
+      "tech": [
+        "XGBoost",
+        "TF-IDF",
+        "SMOTE",
+        "PCA"
+      ]
+    },
+    {
+      "title": {
+        "zh": "大型語言模型與資訊安全",
+        "en": "Cybersecurity LLM (GAI Focus)"
+      },
+      "desc": {
+        "zh": "透過 Ollama 部署 Llama 2，以 Prompt Engineering 與 LangChain 建構規則導向資安助理；微調 4 個 Epoch，Validation Loss 由 2.50 降至 2.44、Perplexity 11.56（林俊叡副教授指導）。",
+        "en": "Deployed Llama 2 via Ollama with Prompt Engineering and LangChain; fine-tuned for 4 epochs, validation loss 2.50 → 2.44, perplexity 11.56 (advised by Assoc. Prof. Raymund Lin)."
+      },
+      "tech": [
+        "Ollama",
+        "Llama 2",
+        "LangChain",
+        "Transformers"
+      ],
+      "img": [
+        {
+          "src": "assets/img/llm-prompt-engineering.png",
+          "zh": "提示工程與回應架構",
+          "en": "Prompt engineering and response architecture"
+        },
+        {
+          "src": "assets/img/llm-fine-tuning.png",
+          "zh": "微調訓練結果：4 個 Epoch、Perplexity 11.56",
+          "en": "Fine-tuning result: 4 epochs, perplexity 11.56"
+        }
+      ]
+    },
+    {
+      "title": {
+        "zh": "i郵箱智慧設置點位 BI 平台",
+        "en": "iBox Site Selection BI Platform"
+      },
+      "desc": {
+        "zh": "Streamlit + Folium 地理視覺化，整合 i郵箱使用數據、地理資訊與台北捷運人流，比較 4 種設置地點類型。",
+        "en": "Streamlit + Folium geospatial platform combining iBox usage, geographic data and Taipei Metro ridership across 4 site types."
+      },
+      "tech": [
+        "Streamlit",
+        "Folium",
+        "PyCaret",
+        "AWS"
+      ],
+      "img": [
+        {
+          "src": "assets/img/ibox-dashboard.png",
+          "zh": "熱點分析圖：地理視覺化與使用說明",
+          "en": "Hotspot analysis map with geospatial view"
+        },
+        {
+          "src": "assets/img/ibox-metro-flow.png",
+          "zh": "台北捷運人流分析",
+          "en": "Taipei Metro ridership analysis"
+        }
+      ]
+    },
+    {
+      "title": {
+        "zh": "網路爬蟲",
+        "en": "Web Scraping"
+      },
+      "desc": {
+        "zh": "以 BeautifulSoup4 與 Selenium 爬取新聞、股市資訊、PTT 文章及高公局交通與氣象局資料，存入 MySQL。",
+        "en": "Scraped news, stock data, PTT posts, freeway traffic and weather data into MySQL."
+      },
+      "tech": [
+        "BeautifulSoup4",
+        "Selenium",
+        "MySQL"
+      ]
+    },
+    {
+      "title": {
+        "zh": "R Shiny Dashboard",
+        "en": "R Shiny Dashboard"
+      },
+      "desc": {
+        "zh": "以 R Shiny 與 Plotly 製作互動統計 Dashboard，部署至 R Shiny 雲端。",
+        "en": "Interactive statistical dashboard in R Shiny with Plotly, deployed to the R Shiny cloud."
+      },
+      "tech": [
+        "R",
+        "R Shiny",
+        "Plotly"
+      ]
+    }
+  ],
+  "imgMeta": {
+    "cathay-architecture": [
+      1000,
+      559
+    ],
+    "cathay-model": [
+      1000,
+      556
+    ],
+    "ibox-dashboard": [
+      1000,
+      531
+    ],
+    "ibox-metro-flow": [
+      1000,
+      540
+    ],
+    "jobfinder-arch": [
+      1000,
+      1010
+    ],
+    "jobfinder-tailor-2": [
+      893,
+      1120
+    ],
+    "jobfinder-tailor": [
+      896,
+      1120
+    ],
+    "jobfinder-trends": [
+      786,
+      1120
+    ],
+    "jobfinder-webui": [
+      796,
+      1120
+    ],
+    "llm-chain-of-thought": [
+      560,
+      477
+    ],
+    "llm-fine-tuning": [
+      1000,
+      511
+    ],
+    "llm-prompt-engineering": [
+      736,
+      704
+    ],
+    "rag-architecture": [
+      1000,
+      198
+    ],
+    "rag-soc-console": [
+      1000,
+      477
+    ],
+    "rag-ui": [
+      1000,
+      478
+    ],
+    "thesis-demo": [
+      1000,
+      550
+    ],
+    "thesis-model-result": [
+      993,
+      803
+    ],
+    "thesis-two-stage": [
+      1000,
+      255
+    ],
+    "wafer-dashboard-2": [
+      1000,
+      485
+    ],
+    "wafer-dashboard": [
+      1000,
+      466
+    ],
+    "wafer-shap": [
+      1000,
+      441
+    ]
+  }
+}
