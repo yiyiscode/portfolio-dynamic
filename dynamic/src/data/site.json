@@ -436,41 +436,6 @@
     },
     {
       "k": "work",
-      "start": "2024-02",
-      "end": "2024-07",
-      "badge": {
-        "zh": "產學合作案",
-        "en": "Industry-academia project"
-      },
-      "org": {
-        "zh": "Solerie",
-        "en": "Solerie Co., Ltd."
-      },
-      "role": {
-        "zh": "技術助理：AI 金幣瑕疵檢測",
-        "en": "Technical Assistant: AI Gold Coin Defect Detection"
-      },
-      "bullets": [
-        {
-          "zh": "以 Arduino 介接硬體建立端到端自動化檢測流程，整合 YOLO 完成金幣偵測、裁切與去背。",
-          "en": "Built an end-to-end automated inspection setup using Arduino to interface with hardware, integrating YOLO for gold coin detection, cropping and background removal."
-        },
-        {
-          "zh": "以 SIFT + FLANN 特徵匹配搭配 Otsu 閾值，計算瑕疵比例並量化缺陷。",
-          "en": "Quantified defects by combining SIFT + FLANN feature matching with Otsu's thresholding to calculate defect ratios."
-        }
-      ],
-      "tech": [
-        "Python",
-        "OpenCV",
-        "YOLO",
-        "Arduino",
-        "SIFT",
-        "FLANN"
-      ]
-    },
-    {
-      "k": "work",
       "start": "2024-01",
       "end": "2024-12",
       "badge": {
