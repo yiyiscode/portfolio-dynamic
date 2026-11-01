@@ -1,7 +1,8 @@
 name: Deploy to GitHub Pages
 
-# Manual trigger until GitHub Pages (Settings -> Pages -> Source: GitHub Actions) is enabled.
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
