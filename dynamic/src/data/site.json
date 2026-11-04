@@ -73,6 +73,10 @@
       "zh": "寄信給我",
       "en": "Email Me"
     },
+    "resume": {
+      "zh": "下載履歷 (PDF)",
+      "en": "Download Resume (PDF)"
+    },
     "stack": {
       "zh": "技術堆疊",
       "en": "Tech Stack"
