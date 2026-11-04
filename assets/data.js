@@ -21,7 +21,7 @@ window.SITE = {
     },
     cta1: { zh: "瀏覽作品", en: "Explore Projects" },
     cta2: { zh: "寄信給我", en: "Email Me" },
-    resume: { zh: "檢視履歷 (PDF)", en: "View Resume (PDF)" },
+    resume: { zh: "履歷", en: "Resume" },
     stack: { zh: "技術堆疊", en: "Tech Stack" },
     tlBadge: { zh: "經歷軌跡", en: "Career Trajectory" },
     tlTitle: { zh: "經歷與成果時間軸", en: "Experience & Impact Timeline" },
