@@ -366,7 +366,7 @@ export const Contact: React.FC = () => {
             {site.github}
           </a>
           {resume && (
-            <a href={resume} download className="text-slate-500 dark:text-slate-400 hover:text-black dark:hover:text-white text-base md:text-xl hover:underline decoration-blue-500/50 underline-offset-4">
+            <a href={resume} target="_blank" rel="noopener noreferrer" className="text-slate-500 dark:text-slate-400 hover:text-black dark:hover:text-white text-base md:text-xl hover:underline decoration-blue-500/50 underline-offset-4">
               {t(ui.resume)}
             </a>
           )}

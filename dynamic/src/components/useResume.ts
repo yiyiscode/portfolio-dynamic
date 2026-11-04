@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 import { useLangStore } from '../store/stores';
 
-// PDF 放在 public/Resume.zh.pdf、Resume.en.pdf，隨語言切換；該語言檔案不存在時回傳 null，按鈕就不顯示。
+// PDF 放在 public/Fang-Yi_Lin_Resume_ZH.pdf、_EN.pdf，隨語言切換；該語言檔案不存在時回傳 null，按鈕就不顯示。
 export function useResumeUrl(): string | null {
   const { lang } = useLangStore();
-  const url = `${import.meta.env.BASE_URL}Resume.${lang}.pdf`;
+  const url = `${import.meta.env.BASE_URL}Fang-Yi_Lin_Resume_${lang.toUpperCase()}.pdf`;
   const [ok, setOk] = useState<string | null>(null);
   useEffect(() => {
     fetch(url, { method: 'HEAD' })
