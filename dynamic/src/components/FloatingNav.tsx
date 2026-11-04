@@ -5,6 +5,7 @@ import { useScrollStore, useThemeStore, useLangStore } from '../store/stores';
 import { PortfolioState, STATE_COUNT } from '../types';
 import { sections } from '../data/sections';
 import { site } from '../data/site';
+import { useResumeUrl } from './useResume';
 
 const icons: Record<number, React.ReactNode> = {
   [PortfolioState.HERO]: <Home size={16} />,
@@ -20,6 +21,7 @@ export const FloatingNav: React.FC<{ onNavigate: (i: number) => void }> = ({ onN
   const progress = useScrollStore((s) => s.scrollProgress);
   const { theme, toggleTheme } = useThemeStore();
   const { lang, toggleLang } = useLangStore();
+  const resume = useResumeUrl();
   const current = Math.min(STATE_COUNT - 1, Math.max(0, Math.round(progress * (STATE_COUNT - 1))));
 
   return (
@@ -59,6 +61,16 @@ export const FloatingNav: React.FC<{ onNavigate: (i: number) => void }> = ({ onN
         >
           GitHub
         </a>
+
+        {resume && (
+          <a
+            href={resume}
+            download
+            className="hidden md:inline ml-2 text-sm font-mono font-bold text-slate-700 dark:text-slate-200 px-3 py-2 rounded-full bg-slate-100 dark:bg-black/40 hover:bg-slate-200 dark:hover:bg-black/60 border border-slate-200 dark:border-white/10 transition-colors shrink-0"
+          >
+            {lang === 'zh' ? '履歷 PDF' : 'Resume PDF'}
+          </a>
+        )}
 
         <button
           onClick={toggleLang}

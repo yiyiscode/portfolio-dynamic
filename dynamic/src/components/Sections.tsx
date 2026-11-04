@@ -9,6 +9,7 @@ import {
   gradientText, hoverGradientText, panel,
 } from './SectionUtils';
 import { GlowCard } from './GlowCard';
+import { useResumeUrl } from './useResume';
 import { useThemeStore } from '../store/stores';
 
 const ui = site.ui;
@@ -343,6 +344,7 @@ export const Education: React.FC = () => {
 export const Contact: React.FC = () => {
   const { lang, t } = useT();
   const m = meta(PortfolioState.CONTACT);
+  const resume = useResumeUrl();
   return (
     <Section index={PortfolioState.CONTACT}>
       <div className="text-center w-full h-full flex flex-col justify-center">
@@ -363,6 +365,11 @@ export const Contact: React.FC = () => {
           <a href={`https://${site.github}`} target="_blank" rel="noreferrer" className="text-slate-500 dark:text-slate-400 hover:text-black dark:hover:text-white text-base md:text-xl hover:underline decoration-blue-500/50 underline-offset-4">
             {site.github}
           </a>
+          {resume && (
+            <a href={resume} download className="text-slate-500 dark:text-slate-400 hover:text-black dark:hover:text-white text-base md:text-xl hover:underline decoration-blue-500/50 underline-offset-4">
+              {t(ui.resume)}
+            </a>
+          )}
         </div>
       </div>
     </Section>
